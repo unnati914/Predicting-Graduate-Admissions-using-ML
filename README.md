@@ -37,4 +37,4 @@ Selecting the Best Algorithm
 Multiple Linear Regression
 Polynomial Regression
 Decision Trees 
-It seems that Multiple Linear Regression is the most accurate of the 3 methods and will be used to predict the future applicant's chances of admission.
+It seems that Multiple Linear Regression is the most accurate of the 3 methods and will be used to predict the future applicant's chances of admission and CGPA is the most important parameters that affect the chance of admission .
